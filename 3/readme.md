@@ -12,5 +12,5 @@ Hasil saya menyimpulkan pertemuan 3 :
 6. mengumpulkan hasil latihan dan absen ke github.com
 7. batas absen h+1jam setelah pembelajaran langsung dicek
 8. batas pengumpulan tugas h+3hari dari saat hari kuliah 
-9. materi pertemuan kedua adalah membuat dokumen html Multimedia
+9. materi pertemuan ketiga adalah membuat dokumen html Multimedia
 10. pembahasan tentang latihan pertemuan ketiga yaitu html Multimedia
