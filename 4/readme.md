@@ -16,3 +16,4 @@ hasil menyimpilkan materi pertemuan 4 :<br>
 10.cara-cara membuat tabel sederhana di html
 11.cara menulis CSS ada 3 macam yaitu Inline CSS, Internal CSS, External CSS
 12.cara menentukan font untuk tampilan html
+13.pembahasan tabel + CSS
