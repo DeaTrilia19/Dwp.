@@ -1,3 +1,7 @@
+Nim : 2022500008<br>
+Nama : Dea Trilia<br>
+Kelompok: SI2K<br>
+
 1.materi membuat dokumen html untuk formulir
 2.membuat form di html menggunakan tag <form></form>
 3.tag form mempunyai method get maupun post
